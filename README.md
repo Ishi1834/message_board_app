@@ -1,1 +1,1 @@
-"# message_board_app" 
+A message board app built using Django.
